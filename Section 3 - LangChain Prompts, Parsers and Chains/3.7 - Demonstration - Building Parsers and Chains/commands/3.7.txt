@@ -1,0 +1,23 @@
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Running python script from StrOutput.py:
+# =========================
+
+python .\StrOutput.py
+
+# =========================
+# Running python script from simple_chain.py:
+# =========================
+
+python .\simple_chain.py
+
+# =========================
+# Running python script from pydanticparser.py:
+# =========================
+
+python .\pydanticparser.py

@@ -1,0 +1,35 @@
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Running python script from prompts.py:
+# =========================
+
+python .\prompts.py
+
+# =========================
+# Running python script from dynamic_prompt.py:
+# =========================
+
+python .\dynamic_prompt.py
+
+# =========================
+# Running python script from chat_prompt.py:
+# =========================
+
+python .\chat_prompt.py
+
+# =========================
+# Running python script from message_holder.py:
+# =========================
+
+python .\message_holder.py
+
+# =========================
+# Running python script from fewshotprompt.py:
+# =========================
+
+python .\fewshotprompt.py
