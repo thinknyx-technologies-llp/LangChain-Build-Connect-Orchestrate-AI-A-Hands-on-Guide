@@ -1,0 +1,29 @@
+# =========================
+# Official url for Downloading python: 
+# =========================
+https://www.python.org/
+
+
+
+# =========================
+# Windows Users
+# =========================
+
+# Verify that Python is installed correctly
+python --version
+
+
+# =========================
+# macOS Users
+# =========================
+
+# Verify that Python 3 is installed correctly
+python3 --version
+
+# -------------------------
+# macOS Note
+# -------------------------
+#
+# Python 3 is typically accessed using the 'python3' command.
+# After activating the virtual environment, the 'python' command
+# usually points to the virtual environment's Python interpreter.

@@ -1,0 +1,6 @@
+# =========================
+# Official url for downloading VS Code
+# =========================
+
+https://code.visualstudio.com/download?_exp_download=fb315fc982
+

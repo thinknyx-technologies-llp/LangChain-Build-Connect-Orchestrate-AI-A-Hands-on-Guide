@@ -1,0 +1,48 @@
+# =========================
+# Official Langchain Reference url:
+# =========================
+
+https://reference.langchain.com/
+
+
+# =========================
+# Official Python Package Index url:
+# =========================
+
+https://pypi.org/
+
+
+# =========================
+# Creating the python virtual environment:
+# =========================
+
+python -m venv .venv
+
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+
+# =========================
+# Enabling Scripts for execution by process:
+# =========================
+
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process 
+
+
+
+# =========================
+# Command for installing packages from requirement.txt file:
+# =========================
+
+pip install -r requirements.txt 
+
+
+# =========================
+# Deactivating the python virtual environment:
+# =========================
+
+deactivate
+

@@ -1,0 +1,7 @@
+# langchain packages
+langchain
+langchain-core
+langchain-community
+
+# loading environment
+python-dotenv
