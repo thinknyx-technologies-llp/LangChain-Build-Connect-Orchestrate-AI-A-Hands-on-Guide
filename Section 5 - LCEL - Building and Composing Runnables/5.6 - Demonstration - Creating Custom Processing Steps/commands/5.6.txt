@@ -1,0 +1,12 @@
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Running python script from custom_processing_steps.py:
+# =========================
+
+python .\custom_processing_steps.py
+

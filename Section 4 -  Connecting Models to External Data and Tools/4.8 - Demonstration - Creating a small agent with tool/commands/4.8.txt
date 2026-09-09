@@ -1,0 +1,11 @@
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Running python script from agent_and_tools.py:
+# =========================
+
+python .\agent_and_tools.py

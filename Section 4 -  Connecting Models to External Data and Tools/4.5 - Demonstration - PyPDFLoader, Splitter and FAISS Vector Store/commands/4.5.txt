@@ -1,0 +1,17 @@
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Running python script from pdf_loader.py:
+# =========================
+
+python .\pdf_loader.py
+
+# =========================
+# Command for installing packages from requirement.txt file:
+# =========================
+
+pip install -r requirements.txt 

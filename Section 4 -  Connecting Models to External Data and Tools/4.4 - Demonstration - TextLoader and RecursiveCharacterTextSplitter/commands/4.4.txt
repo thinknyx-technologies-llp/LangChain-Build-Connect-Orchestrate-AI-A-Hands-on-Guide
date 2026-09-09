@@ -1,0 +1,12 @@
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Running python script from simple_textloader.py:
+# =========================
+
+python .\simple_textloader.py
+
