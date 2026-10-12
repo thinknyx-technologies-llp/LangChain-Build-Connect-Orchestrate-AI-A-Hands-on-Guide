@@ -1,0 +1,12 @@
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Running python script from coding_copilot.py:
+# =========================
+
+python .\coding_copilot.py
+

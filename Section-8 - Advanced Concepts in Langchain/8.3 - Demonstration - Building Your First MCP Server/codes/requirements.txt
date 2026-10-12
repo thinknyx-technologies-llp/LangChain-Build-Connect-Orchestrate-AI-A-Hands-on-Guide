@@ -1,0 +1,24 @@
+# langchain packages
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-huggingface
+
+transformers
+huggingface-hub
+sentence-transformers
+
+# loading environment varibales and API Keys
+python-dotenv
+
+#pytorch
+torch
+
+pypdf
+faiss-cpu
+
+langchain-chroma
+
+fastmcp
+requests

@@ -1,0 +1,5 @@
+# =========================
+# Official FastMCP Docs url:
+# =========================
+
+https://gofastmcp.com/getting-started/welcome
