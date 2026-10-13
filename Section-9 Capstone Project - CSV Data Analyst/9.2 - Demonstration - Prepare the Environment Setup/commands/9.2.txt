@@ -1,0 +1,17 @@
+# =========================
+# Creating the python virtual environment:
+# =========================
+
+python -m venv .venv
+
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Command for installing packages from requirement.txt file:
+# =========================
+
+pip install -r requirements.txt

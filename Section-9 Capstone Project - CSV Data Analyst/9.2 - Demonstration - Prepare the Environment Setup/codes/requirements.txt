@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+pandas
+
+python-dotenv
+
+streamlit
+

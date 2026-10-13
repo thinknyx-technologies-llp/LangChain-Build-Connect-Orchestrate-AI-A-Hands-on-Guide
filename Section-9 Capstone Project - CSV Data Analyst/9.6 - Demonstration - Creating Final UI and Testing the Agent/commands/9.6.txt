@@ -1,0 +1,23 @@
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Running python script from app.py:
+# =========================
+
+streamlit run .\app.py
+
+# =========================
+# Superstore Dataset from Kaggle Url: 
+# =========================
+
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
+
+# =========================
+# Sales Dataset from Kaggle Url: 
+# =========================
+
+https://www.kaggle.com/datasets/ajitjha01/sales-dataset

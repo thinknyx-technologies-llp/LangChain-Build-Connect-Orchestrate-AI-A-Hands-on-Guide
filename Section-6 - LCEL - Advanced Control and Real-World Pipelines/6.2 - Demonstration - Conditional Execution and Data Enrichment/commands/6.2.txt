@@ -1,0 +1,12 @@
+# =========================
+# Activating the python virtual environment:
+# =========================
+
+.venv/Scripts/activate 
+
+# =========================
+# Running python script from runnablebranch.py:
+# =========================
+
+python .\runnablebranch.py
+
